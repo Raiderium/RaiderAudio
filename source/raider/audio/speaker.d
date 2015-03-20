@@ -1,5 +1,7 @@
 ﻿module raider.audio.speaker;
 
+import raider.math.vec;
+
 /**
  * Emits audio.
  */
