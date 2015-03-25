@@ -1,5 +1,6 @@
 {
     "name": "raider-audio",
+    "version": "0.0.1",
     "description": "A small 3D audio system for D.",
     "homepage": "https://github.com/Raiderium/RaiderAudio",
     "license": "MIT",
@@ -9,7 +10,8 @@
     "targetPath": "lib",
 
 	"dependencies": { 
-		"raider-math": "~master",
-		"raider-collision": "~master"
+		"raider-tools": ">0.0.0",
+		"raider-math": ">0.0.0",
+		"raider-collision": ">0.0.0"
 	}
 }
