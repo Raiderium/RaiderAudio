@@ -1,7 +1,7 @@
 {
     "name": "raider-audio",
     "version": "0.0.1",
-    "description": "A small 3D audio system for D.",
+    "description": "A small 3D audio system.",
     "homepage": "https://github.com/Raiderium/RaiderAudio",
     "license": "MIT",
     "authors": ["Aiden Sibley"],
