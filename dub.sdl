@@ -1,0 +1,13 @@
+name "raider-audio"
+version "0.0.1"
+description "A small 3D audio system."
+homepage "https://github.com/Raiderium/RaiderAudio"
+license "MIT"
+authors "Aiden Sibley"
+
+targetName "RaiderAudio"
+targetPath "lib"
+
+dependency "raider-tools" version=">0.0.0"
+dependency "raider-math" version=">0.0.0"
+dependency "raider-collision" version=">0.0.0"

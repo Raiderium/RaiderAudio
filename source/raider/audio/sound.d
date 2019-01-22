@@ -5,6 +5,6 @@
  */
 final class Sound
 {
-	
+	this() { }
 }
 
